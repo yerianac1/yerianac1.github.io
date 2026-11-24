@@ -1,5 +1,9 @@
 ---
 title: "yerianac1.github.io"
+
+project:
+  type: website
+  output-dir: docs
 ---
 
 This is a Quarto website.
