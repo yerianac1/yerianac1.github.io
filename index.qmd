@@ -1,8 +1,7 @@
 ---
-
 title: "Anna Catherine Yerian"
 image: anna-catherine-yerian-headshot.jpg
-about: 
+about:
   template: trestles
   image-shape: rounded
   image-width: 15em
@@ -12,7 +11,7 @@ about:
     - text: GitHub
       href: https://github.com/yerianac1
     - text: Email
-      href: mailto:yerianac1@gmail.com 
+      href: mailto:yerianac1@gmail.com
 ---
 
 This is a Quarto website.
