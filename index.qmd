@@ -1,9 +1,18 @@
 ---
-title: "yerianac1.github.io"
 
-project:
-  type: website
-  output-dir: docs
+title: "Anna Catherine Yerian"
+image: anna-catherine-yerian-headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/annacatherineyerian
+    - text: GitHub
+      href: https://github.com/yerianac1
+    - text: Email
+      href: mailto:yerianac1@gmail.com 
 ---
 
 This is a Quarto website.

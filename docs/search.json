@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "yerianac1.github.io",
+    "section": "",
+    "text": "title: “Anna Catherine Yerian” image: anna-catherine-yerian-headshot.jpg about: template: trestles image-shape: rounded image-width: 15em links: - text: LinkedIn href: https://www.linkedin.com/in/annacatherineyerian - text: GitHub href: https://github.com/yerianac1 - text: Email href: mailto:yerianac1@gmail.com —\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
