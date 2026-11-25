@@ -1,9 +1,23 @@
 ---
 title: "About"
+toc: true
+toc-title: "Contents"
+toc-location: right
 ---
 
-About this site
+I am a student, blah.....
+
+## Professional Background
+
+Some text.
+
+## Education
+
+More text.
+
+## Skills
 
 ```{r}
-1 + 1
+3
+
 ```

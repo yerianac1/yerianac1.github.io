@@ -7,16 +7,18 @@ about:
   image-width: 15em
   links:
     - text: LinkedIn
+      icon: linkedin
       href: https://www.linkedin.com/in/annacatherineyerian
     - text: GitHub
+      icon: github
       href: https://github.com/yerianac1
-    - text: Email
+    - text: Contact
       href: mailto:yerianac1@gmail.com
+      
 ---
+**Nice to meet you {{< fa face-smile title="A smiling face" >}}**
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Anna Catherine Yerian, and I am a graduate student at Colorado State University studying water resources.
 
 ```{r}
 
